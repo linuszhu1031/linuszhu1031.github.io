@@ -1,2 +1,2 @@
 # linuszhu1031.github.io
-Personal Website
+A little personal website to introduce myself. 
